@@ -1,0 +1,48 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.headerbody1 {
+    background: #1f2937;
+    margin: 0px;
+    height: 40vh;
+}
+
+.headernavbar {
+    display: flex;
+    margin: 0vh 15vh 0vh 15vh; 
+    padding-top: 1vh;
+}
+
+#headerlogo {
+    margin: 0px;
+    font-size: 24px;
+    color: #E5E7EB;
+    margin-right: auto;
+}
+
+.navbarlink {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: 0px 10px;
+    text-decoration: none;
+}
+
+.body2 {
+    
+}
+
+
+.body3 {
+    
+}
+
+
+.body4 {
+    
+}
+
+.footer {
+
+}
