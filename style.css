@@ -136,3 +136,39 @@ body {
     font-weight: bold;
     font-size: 20px;
 }
+
+.body4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.body4bluebox {
+    display: flex;
+    height: 20vh;
+    width: 70vw;
+    background: #3882F6;
+    border-radius: 5px;
+    margin: 4rem;
+    justify-content: space-between;
+
+}
+
+.body4left {
+    color: white;
+    margin-right: auto;
+    align-self: center;
+    margin: 3rem;
+}
+
+.body4bluebox button {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 5px 25px;
+    margin: 3rem;
+    border: 1px solid white;
+    align-self: center;
+    flex: 0 0 auto;
+}
