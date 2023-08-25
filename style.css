@@ -112,3 +112,27 @@ body {
     height: 150px;
     border-radius: 10px;
 }
+
+.body3 {
+
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.body3 p {
+    font-size: 33px;
+    color: #1F2937;
+    font-style: italic;
+    width: 70vw;
+    padding: 4rem;
+}
+
+.body3quote {
+
+    margin-top: 3rem;
+    float: right;
+    font-weight: bold;
+    font-size: 20px;
+}
